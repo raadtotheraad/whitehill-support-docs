@@ -24,8 +24,10 @@ links:
     icon: people
     target: blank
 
-edit:
-  repo: "https://github.com/WhitehillGroup/support/edit/"
+#edit:
+#  repo: "https://github.com/WhitehillGroup/support/edit/"
+# has to be disabled due to retype bug, doesnt respect that all
+# docs are under /docs, not the root ~roax
 
 meta:
   title: " | Whitehill Support"
