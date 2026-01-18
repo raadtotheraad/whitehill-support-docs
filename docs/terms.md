@@ -35,24 +35,18 @@ You also agree not to modify, alter, or tamper with any engine scripts without e
 === Branding & Logo Retention
 
 You agree not to remove or alter logos included on provided models, except where UI customization is permitted.
-You agree not to use the JSM, Whitehill or DWProx logo on any product not manufactured by Whitehill Group.
+You agree not attempt to modify restricted parts of the UIs, such as Store Mode in JSM SelfCheckout.
+You agree not to use the JSM, Whitehill, or DWProx logo on any product not manufactured by Whitehill Group.
 
 !!!light JSM Freestyle Exception
 The UI logo must remain intact. The machine chassis may be rebranded only to match your game’s theme, not to represent your own company or brand identity.
 !!!
 
-=== Asset Usage Restrictions
+=== Addons, Custom Models, and Redistribution
 
-You agree not to use any assets supplied with our products in any external models, projects, or products not manufactured 
-by Whitehill Group, including personal use, unless you have received explicit permission from a Senior Executive or above.
+You are free to create, sell, or distribute your own addons, models, or UI themes for our products. Customers may purchase and apply them at their discretion.
 
-=== Redistribution Limitations
-
-You agree not to redistribute, share, or repackage any licensed assets. Redistribution for personal financial gain is strictly prohibited.
-
-!!!light JSM SelfCheckout Clause
-The distribution of custom UI themes is permitted, as well as the distribution of any 3rd party products/terminal models compatible with SCO v3, **as long as no Whitehill assets are distributed alongside it.**
-!!!
+However, you must not include or repackage any Whitehill Group assets (models, scripts, textures, UI elements, etc.) in your addons. Only your original or third-party assets are allowed.
 
 ===
 

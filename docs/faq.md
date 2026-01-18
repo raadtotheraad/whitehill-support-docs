@@ -14,12 +14,18 @@ authors:
   - name: roaxcean
     link: https://github.com/roaxcean
     avatar: https://avatars.githubusercontent.com/u/219159259
+  - name: ThatNemusy
+    link: https://github.com/ThatNemusy
+    avatar: https://avatars.githubusercontent.com/u/95968788
 ---
 # Frequently Asked Questions
 
 ![](/static/assets/banners/whg_faq.png)
 
 Check out our frequently asked questions, the answer you're looking for might already be here.
+
+==- What does Pre-Order mean?
+The product is not yet available to be downloaded, buy can be "pre-ordered", meaning you purchase it while it's still in development, usually at a discounted price.
 
 ==- How can I access my products?
 You can purchase and download all of our products easily through our user-friendly dashboard. Visit [Axon](https://axon.whitehill.group) to get started.
