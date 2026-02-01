@@ -1,7 +1,7 @@
 ---
 icon: package
 label: Adding Products
-order: 97
+order: 95
 tags: [Products]
 image: /static/assets/whg_headbanner.png
 authors: 
