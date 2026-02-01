@@ -17,7 +17,7 @@ categories:
 
 ![](/static/assets/banners/whg_scoproducts.png)
 
-Mmm... scanning.
+Mmm... scanning...
 
 !!! Tip
 We recommend the usage of the Whitehill Tool Configurator Plugin [here](https://create.roblox.com/store/asset/96844493449121). If you use the plugin, the process is fairly straightforward.
