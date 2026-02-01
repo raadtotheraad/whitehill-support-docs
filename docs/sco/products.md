@@ -1,5 +1,5 @@
 ---
-icon: tools
+icon: package
 label: Adding Products
 order: 95
 tags: [Products]
