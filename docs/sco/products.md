@@ -42,6 +42,7 @@ Go to the example Product and find a BindableFunction named ``JSM | Item Data``.
 - **EASActive**: (``boolean``) If the JSM EAS should alarm if the Product hasn't been paid for yet.
 - **ItemImage**: (``string``) The Decal the SCO should show when scanned. Use ``rbxassetid://0``, where ``0`` is the Asset ID of the Decal.
 - **LoyaltyCost**: (``number``) How much the Product should cost if a Loyalty Card has been scanned.
+
 You can customize these to your liking.
 ===
 
