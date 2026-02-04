@@ -49,7 +49,7 @@ Go to the Operator Login Card tool and find a BindableFunction named ``JSM | Ope
 **AccountID**: (``number``) The account ID the tool should be registered with. You can make different barcodes for each ID.
 
 !!! Not sure what an account ID is?
-Go to the [Accounts Page](https://support.whitehill.group/sco/accounts/). You will find more about it there.
+Go to the [Accounts Page](/sco/accounts.md). You will find more about it there.
 !!!
 ===
 
