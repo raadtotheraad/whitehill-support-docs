@@ -12,7 +12,7 @@ categories:
   - JSM
   - SelfServ ATM
 ---
-# AutoPro API
+# ATM API
 
 ![](/static/assets/banners/whg_atmapi.png)
 
